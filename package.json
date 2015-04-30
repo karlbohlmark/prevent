@@ -1,0 +1,19 @@
+{
+  "name": "@karboh/prevent",
+  "version": "1.0.0",
+  "description": "Cross-browser preventDefault",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlbohlmark/prevent.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karlbohlmark/prevent/issues"
+  },
+  "homepage": "https://github.com/karlbohlmark/prevent#readme"
+}
